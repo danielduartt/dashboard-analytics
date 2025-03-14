@@ -13,8 +13,8 @@ Este repositório é dedicado ao aprendizado e desenvolvimento de dashboards int
 ```
 📦 dashboard-analytics
 │
-├── 📁 power_bi_fundamentals            # Materiais de aprendizado sobre cada tecnologia
-│   ├── powerbi/            # Curso e anotações sobre Power BI
+├── 📁 fundamentals            # Materiais de aprendizado sobre cada tecnologia
+│   ├── power_bi/            # Curso e anotações sobre Power BI
 │   ├── dash/               # Conceitos e tutoriais sobre Dash
 │   ├── streamlit/          # Introdução e projetos com Streamlit
 │
